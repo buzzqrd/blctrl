@@ -1,4 +1,4 @@
-# blctrl :low_brightness: :high_brightness:
+# blctrl  :computer: :high_brightness:
 
 A super simple C program for controlling brightness in a Linux terminal.
 
