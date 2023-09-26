@@ -5,7 +5,6 @@ buzzqrd
 
 An example C file for using blctrl.h functions in another program.
 
-This code is licenced in the public domain.
 */
 
 #include <stdio.h>
